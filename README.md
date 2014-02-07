@@ -17,4 +17,8 @@ Bracket Highlighter
 
 Markdown Preview
 
-Trimmer
+### Color Schemes
+
+RailsCasts Colour Scheme
+
+Tomorrow Color Schemes
