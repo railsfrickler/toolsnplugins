@@ -9,8 +9,12 @@ Useful tools and plugins for rails devs
 
 [Package Control](https://sublime.wbond.net/)
 
+Git
+
 GitGutter
 
 Bracket Highlighter
 
 Markdown Preview
+
+Trimmer
