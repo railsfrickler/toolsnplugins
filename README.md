@@ -1,4 +1,16 @@
-toolsnplugins
+Useful tools and plugins for rails devs
 =============
 
-Recommended tools and plugins for rails developers
+# SublimeText
+
+[SublimeText 3](http://www.sublimetext.com/3) is _the_ text editor: slim, fast, neat and extendable via package management system.
+
+## Plugins
+
+[Package Control](https://sublime.wbond.net/)
+
+GitGutter
+
+Bracket Highlighter
+
+Markdown Preview
