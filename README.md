@@ -17,6 +17,8 @@ Bracket Highlighter
 
 Markdown Preview
 
+Better Coffee​Script
+
 ### Color Schemes
 
 RailsCasts Colour Scheme
