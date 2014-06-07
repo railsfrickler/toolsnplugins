@@ -19,8 +19,24 @@ Markdown Preview
 
 Better Coffee​Script
 
+SideBarEnhancements
+
+AdvancedNewFile
+
+CapybaraSnippets
+
+ERBSnippets
+
+Sass
+
+Ruby Hash Converter
+
 ### Color Schemes
 
 RailsCasts Colour Scheme
 
 Tomorrow Color Schemes
+
+### Themes
+
+Predawn
