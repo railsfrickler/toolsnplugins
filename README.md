@@ -31,6 +31,8 @@ Sass
 
 Ruby Hash Converter
 
+RubyToggleString
+
 ### Color Schemes
 
 RailsCasts Colour Scheme
