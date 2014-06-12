@@ -35,6 +35,7 @@ Ruby Hash Converter
 
 RailsCasts Colour Scheme
 
+Railscasts Extended
 
 Tomorrow Color Schemes
 
