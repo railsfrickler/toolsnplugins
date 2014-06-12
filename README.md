@@ -33,6 +33,8 @@ Ruby Hash Converter
 
 RubyToggleString
 
+RSpec
+
 ### Color Schemes
 
 RailsCasts Colour Scheme
